@@ -19,7 +19,7 @@
 ## ⚡ WHO WE ARE
 
 </div>
-RTAGI Studio is a small coding studio (small it is indeed) focused on building AI based tools.
+RTAGI Studio is a small coding studio (small it is indeed) focused on building AI based tools or C++ Memory Programs.
 
 <div align="center">
 
