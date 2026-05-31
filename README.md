@@ -16,10 +16,10 @@
 
 <div align="center">
 
-## ⚡ WHO WE ARE
+## ⚡ WHO
 
 </div>
-RTAGI Studio is a small coding studio (small it is indeed) focused on building AI based tools or C++ Memory Programs.
+I am an small developer, I focus on C++, LUA and AI.
 
 <div align="center">
 
@@ -65,8 +65,8 @@ RTAGI Studio is a small coding studio (small it is indeed) focused on building A
 
 ## 📬 GET IN TOUCH
 
-We are open to collaborations, friends, and ambitious projects.\
-Mail us at\
+Open to collaborations, friends, and ambitious projects.\
+Mail me at\
 **rtagi@proton.me**
 
 <!-- FOOTER WAVE -->
